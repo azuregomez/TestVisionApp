@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TestVisionApp": {
+      "commandName": "Project",
+      "commandLineArgs": "https://storagegomez.blob.core.windows.net/public/images/Rufus-Teague-Touch-O-Heat-2.jpg"
+    }
+  }
+}
