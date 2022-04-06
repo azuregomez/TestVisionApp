@@ -20,6 +20,7 @@ namespace TestVisionApp
         private static IConfiguration _iconfiguration;        
         static void Main(string[] args)
         {
+            // main
             string imageUrl = args[0];
             GetAppSettings();
             Task t = ReadTextFromImage(imageUrl);
